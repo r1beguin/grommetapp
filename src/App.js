@@ -5,6 +5,13 @@ import { Grommet, Box,  } from "grommet";
 
 const theme = {
   global: {
+    colors: {
+      brand: '#cc0000',
+      back: "#292929",
+      card: "#bfdbf7",
+      accent: "#994650",
+      ok: '#00C781',
+    },
     font: {
       family: "Roboto",
       size: "18px",
